@@ -15,7 +15,7 @@
 4.  管装产品末端：如唇膏、粉底液等
 5.  外包装侧面：有时会在条形码附近
 
-![img](https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d94cdc8110e544c092ecd62330c05690~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg55So5oi3MjA5OTQwNzg2NjMx:q75.awebp?rk3s=f64ab15b&x-expires=1780841473&x-signature=%2BW5xBTvRPi8ocMOdVpEznX4cAg4%3D)
+![img](https://share-text.org/api/imgUrl?text=chQJvnMB/20260611094007-37-5842.png)
 
 T3H1 - 这是批号。 605561/0323767332154258 - 这不是批号。 识别特征
 
