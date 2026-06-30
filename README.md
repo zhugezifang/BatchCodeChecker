@@ -469,31 +469,3 @@ The `readme` file contains the raw data in this format:
   { "value": "dior", "label": "Dior", "desc": "..." }
 ]
 ```
-
-### In Frontend Code
-
-```js
-// Import and use as a brand selector
-const brands = supportBrands.map(b => ({
-  slug: b.value,
-  name: b.label,
-  description: b.desc || null
-}));
-
-// Generate brand URLs
-const brandUrl = (slug) => `/brands/${slug}`;
-```
-
-### SEO URL Mapping
-
-| Slug | URL Example |
-|------|-------------|
-| `chanel` | `/brands/chanel` |
-| `la-roche-posay` | `/brands/la-roche-posay` |
-| `tommy-hilfiger` | `/brands/tommy-hilfiger` |
-
----
-
-<p align="center">
-  <sub>Last updated: June 2026 · 213 brands · 26 alphabetical sections</sub>
-</p>
