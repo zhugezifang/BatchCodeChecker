@@ -1,6 +1,6 @@
-# Supported Brands List
+# Batch Code Checker Supported Brands List
 
-> A comprehensive catalog of **213 beauty, fragrance, and personal care brands** with slug identifiers and display names, ready for use in e-commerce, SEO, and web applications.
+> A comprehensive catalog of **213 beauty, fragrance, and personal care brands** with slug identifiers and display names, ready for use in e-commerce, and web applications.
 
 ---
 
