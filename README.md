@@ -1,6 +1,6 @@
 # Batch Code Checker Supported Brands List
 
-> A comprehensive catalog of **213 beauty, fragrance, and personal care brands** with slug identifiers and display names, ready for use in e-commerce, and web applications.
+> A comprehensive catalog of **1000+ beauty, fragrance, and personal care brands** with slug identifiers and display names, ready for use in e-commerce, and web applications.
 
 can aslo check batch code at [https://batchcodechecker.org/](https://batchcodechecker.org/) or [https://checkcosmetic.online/](https://checkcosmetic.online/)
 
